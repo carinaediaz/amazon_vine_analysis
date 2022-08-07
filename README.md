@@ -7,11 +7,11 @@
 ##### We then grouped and filtered the dataframe to produce the customers_table, products_table, review_id_table, and vine_table. From here, we filtered the vine_table to only include reviews with 20 or greater total votes, greater than or equal to 50% helpfulness, and then dividing the dataframe by paid vs unpaid five-star reviews. Summaries of our findings are below. 
 ![paid_reviews.PNG](https://github.com/carinaediaz/amazon_vine_analysis/blob/main/Images/paid_reviews.PNG)
 ![unpaid_reviews.PNG](https://github.com/carinaediaz/amazon_vine_analysis/blob/main/Images/unpaid_reviews.PNG)
-Paid Five-Star Reviews:
+##### Paid Five-Star Reviews:
 - Total count of paid reviews: 170
 - Count of paid reviews with five-stars: 65
 - Percentage of paid reviews with five-stars: 38.2% 
-Unpaid Five-Star Reviews:
+##### Unpaid Five-Star Reviews:
 - Total count of unpaid reviews: 37840
 - Count of unpaid reviews with five-stars: 20612
 - Percentage of unpaid reviews with five-stars: 54.4%
